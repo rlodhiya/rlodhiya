@@ -88,3 +88,4 @@ Here are some ideas to get you started:
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=${your.username}.${your.repo.id})
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ravilodhiya.visitor-badge&format=true)
