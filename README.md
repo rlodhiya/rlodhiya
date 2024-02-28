@@ -58,6 +58,28 @@ Results-driven and visionary Software Engineering Manager with a focus on Machin
 - Background or understanding of the retail sector, logistics, and/or e-commerce.
 
 <hr>
+
+## Work Experience
+
+#### Ram Infosystems LimitedRam Infosystems Limited
+#### Professional FreelancerProfessional Freelancer
+
+FreelanceFreelance Dec 2023 - Present · 3 mosDec 2023 - Present · 3 mos United Kingdom · RemoteUnited Kingdom · Remote
+
+Refactoring the ERP solution to make it 50% more automated and intelligent by reducing the codebase and utilising user engagement with the help of machine learning and AI to automate and streamline the jewellery manufacturing process.
+
+• Spearheaded the technical strategy for machine learning engineering teams, ensuring alignment with broader technology objectives and customer needs.
+• Lead recruitment efforts, cultivating a high-performing team of engineering managers and senior engineering talent.
+• Collaborate closely with key stakeholders to prioritise initiatives and deliver value-driven solutions.
+• Contribute to budget planning and forecasting for the Data Science domain, optimising resource allocation.
+• Facilitate group discussions on system design and architecture, fostering innovation and cross-functional collaboration.
+• Work collaboratively with Data Scientists, Engineers, and Product teams throughout the software development lifecycle.
+• Champion best practices in software development, ensuring the delivery of high-quality, production-ready code and solutions.
+• Establish robust support mechanisms for production systems, overseeing incident resolution and root cause analysis.
+• Share knowledge and mentor team members, fostering a culture of learning and professional development.
+• Apply SDLC practices to create and release resilient software, adhering to industry standards and compliance requirements.
+
+<hr>
 # Contact Me
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravilodhiya/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rlodhiya2502@gmail.com)
