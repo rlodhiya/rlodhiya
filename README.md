@@ -15,6 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hi there! 
+
+I'm Ravi, a seasoned Full-Stack Developer and Microsoft Certified Professional with over two decades of experience crafting innovative solutions for Small and Medium Enterprises. At Ram Infosystems Limited, I lead a dynamic team in the design, development, and deployment of end-to-end applications using cutting-edge technologies such as .NET Core, C#, Node.js, Angular, and Azure Cloud.
+
+Throughout my career, I've spearheaded numerous projects resulting in measurable business outcomes, including increased efficiency and revenue growth. My expertise spans both front-end and back-end development, with a keen focus on delivering seamless user experiences and robust functionalities.
+
+In addition to my technical prowess, I bring a flair for marketing and sales support, having recently completed an apprenticeship in Eaton Sales Coaching. I excel in generating creative campaigns that elevate brand awareness and drive ROI for clients.
+
+I'm passionate about leveraging technology to empower SMEs to thrive in the digital landscape. 
+
+Let's connect and discuss how my Fullstack development skills can contribute to your organization's success!
 
 
 ![](banner.png)
