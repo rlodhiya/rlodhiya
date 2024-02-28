@@ -1,23 +1,21 @@
-### Hi there 👋
+### Hi there 👋!
 
 <!--
 **rlodhiya/rlodhiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-Hi there! 
-
-I'm Ravi, a seasoned Full-Stack Developer and Microsoft Certified Professional with over two decades of experience crafting innovative solutions for Small and Medium Enterprises. At Ram Infosystems Limited, I lead a dynamic team in the design, development, and deployment of end-to-end applications using cutting-edge technologies such as .NET Core, C#, Node.js, Angular, and Azure Cloud.
+I'm Ravi Lodhiya, a seasoned Full-Stack Developer and Microsoft Certified Professional with over two decades of experience crafting innovative solutions for Small and Medium Enterprises with a focus on Machine Learning Engineering. At Ram Infosystems Limited, I lead a dynamic team in the design, development, and deployment of end-to-end applications using cutting-edge technologies such as .NET Core, C#, Node.js, Angular, and Azure Cloud. 
 
 Throughout my career, I've spearheaded numerous projects resulting in measurable business outcomes, including increased efficiency and revenue growth. My expertise spans both front-end and back-end development, with a keen focus on delivering seamless user experiences and robust functionalities.
 
@@ -27,14 +25,43 @@ I'm passionate about leveraging technology to empower SMEs to thrive in the digi
 
 Let's connect and discuss how my Fullstack development skills can contribute to your organization's success!
 
-
 ![](banner.png)
 
 <hr>
+# Summary
+Results-driven and visionary Software Engineering Manager with a focus on Machine Learning Engineering, leveraging over 22 years of experience in leading and delivering innovative products within the data science domain. Demonstrated ability to architect, engineer, and deploy scalable data solutions, optimizing operations and enhancing customer experience. Adept at collaborating cross-functionally with engineering, data science, and product teams to align technical strategies with business objectives.
 
+<hr>
+
+# Skills
+
+- Leadership and Team Management
+- Technical Strategy Development
+- Recruitment and Talent Acquisition
+- Cross-functional Collaboration
+- Budget Planning and Forecasting
+- System Design and Architecture
+- Software Development Lifecycle (SDLC)
+- Continuous Improvement and Innovation
+- Mentoring and Professional Development
+- Stakeholder Management
+
+<hr>
+# Additional Information
+
+- Fluent in C#, NestJs, Angular, Python and proficient in multiple programming languages.
+- Experienced in version control (Git) and software lifecycle tooling.
+- Knowledgeable in common data structures and algorithms.
+- Familiar with open-source Data-Science environments and big-data technologies.
+- Proficiency in cloud platforms, particularly Azure.
+- Understanding of software development methodologies, including Scrum & Kanban.
+- Background or understanding of the retail sector, logistics, and/or e-commerce.
+
+<hr>
 # Contact Me
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravilodhiya/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rlodhiya2502@gmail.com)
+
 <hr>
 
 # Languages I work in
@@ -94,10 +121,6 @@ Let's connect and discuss how my Fullstack development skills can contribute to 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravilodhiya)
 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ravilodhiya&show_icons=true)
-
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=${your.username}.${your.repo.id})
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ravilodhiya.visitor-badge&format=true)
