@@ -61,10 +61,9 @@ Results-driven and visionary Software Engineering Manager with a focus on Machin
 
 ## Work Experience
 
-#### Ram Infosystems LimitedRam Infosystems Limited
-#### Professional FreelancerProfessional Freelancer
-
-FreelanceFreelance Dec 2023 - Present · 3 mosDec 2023 - Present · 3 mos United Kingdom · RemoteUnited Kingdom · Remote
+#### Ram Infosystems Limited
+#### Professional Freelancer
+Dec 2023 - Present · 3 mosDec 2023 - Present · 3 mos United Kingdom · RemoteUnited Kingdom · Remote
 
 Refactoring the ERP solution to make it 50% more automated and intelligent by reducing the codebase and utilising user engagement with the help of machine learning and AI to automate and streamline the jewellery manufacturing process.
 
