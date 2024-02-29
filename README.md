@@ -83,11 +83,14 @@ Refactoring the ERP solution to make it 50% more automated and intelligent by re
 
 
 <hr>
-# Contact Me
-![(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravilodhiya/)
-![(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rlodhiya2502@gmail.com)
-![(https://img.shields.io/badge/WhatsApp=
 
+# Contact Me
+
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Contact on LinkedIN](https://www.linkedin.com/in/ravilodhiya/)
+
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Email Me](mailto:rlodhiya2502@gmail.com)
 <hr>
 
 # Languages I work in
@@ -122,6 +125,7 @@ Refactoring the ERP solution to make it 50% more automated and intelligent by re
 <hr>
 
 # Tools I Use
+
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
@@ -133,7 +137,6 @@ Refactoring the ERP solution to make it 50% more automated and intelligent by re
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
-![]()
 
 <hr>
 
