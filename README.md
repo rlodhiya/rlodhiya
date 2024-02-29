@@ -28,7 +28,8 @@ Let's connect and discuss how my Fullstack development skills can contribute to 
 ![](banner.png)
 
 <hr>
-# Summary
+## Summary
+
 Results-driven and visionary Software Engineering Manager with a focus on Machine Learning Engineering, leveraging over 22 years of experience in leading and delivering innovative products within the data science domain. Demonstrated ability to architect, engineer, and deploy scalable data solutions, optimizing operations and enhancing customer experience. Adept at collaborating cross-functionally with engineering, data science, and product teams to align technical strategies with business objectives.
 
 <hr>
